@@ -1,4 +1,4 @@
-📊 Adult Census Population Clustering
+📊 **Adult Census Population Clustering**
 An Unsupervised Machine Learning Project
 
 🌟 Project Overview
