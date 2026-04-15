@@ -81,10 +81,3 @@ The model performance was evaluated using:
 | Mean Accuracy | Average overall prediction correctness across 10 distinct data folds |
 | Standard Deviation | Measures model stability and variance to ensure results are not due to overfitting |
 
-## Technologies Used
-
-* Python
-* Apache Spark (PySpark)
-* Scikit-learn
-* PySpark MLlib
-* Jupyter Notebook
